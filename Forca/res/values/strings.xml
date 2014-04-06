@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Forca</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="forca">Forca</string>
+    <string name="cabeca">Cabeça</string>
+    <string name="corpo">Corpo</string>
+    <string name="perna_esquerda">Perna Esquerda</string>
+    <string name="perna_direita">Perna Direita</string>
+    <string name="braco_esquerdo">Braço Esquerdo</string>
+    <string name="game_over">Braço Direito, Game OVER!</string>
+
+</resources>
